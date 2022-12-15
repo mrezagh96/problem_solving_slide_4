@@ -11,6 +11,6 @@ func main() {
 	fmt.Println("say hello to everybody ")
 	// editing in other device
 	fmt.Println("this is an edit an other device ")
-	fmt.Println("OK")
+	// on local
 
 }
