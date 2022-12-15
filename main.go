@@ -12,6 +12,5 @@ func main() {
 	// editing in other device
 	fmt.Println("this is an edit an other device ")
 	fmt.Println("OK")
-	fmt.Println("done")
 
 }
